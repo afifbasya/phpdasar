@@ -1,4 +1,4 @@
-<?
+<?php
 $var1 = "Afif"; //string
 $var2 = 30; //integer
 $var3 = 3.14; //float
